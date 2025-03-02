@@ -4,9 +4,10 @@ public class Assignment1_DataTypes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		float temp = 25.5f;
 		boolean orderPlacement = true;
-		String phoneNumber = "123-456-7890";//dt
+		String phoneNumber = "123-456-7890";
 		double balance = 1000.50;
 		String email = "john.doe@example.com";
 		double latitude = 37.7749,longitude = -122.4194;
@@ -15,7 +16,6 @@ public class Assignment1_DataTypes {
 		String colour = "Blue";
 		int year = 2023;
 		long followers =1000000;
-		
 		float movieRating = 7.5f;
 		char bloodType = 'A';
 		String bookTitle = "To Kill a Mockingbird";
