@@ -8,7 +8,6 @@ public class Assignment1_DataTypes {
 		
 		//1. Temperature of a city in degrees Celsius: 25.5
 		float temparature = 25.5f;
-		System.out.format("1. Temperature of a city in degrees Celsius: %.1f%n",temparature);
 		System.out.printf("1. Temperature of a city in degrees Celsius: %.1f%n",temparature);
 		
 		//2. Whether a customer has placed an order: true
